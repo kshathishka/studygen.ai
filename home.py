@@ -1,4 +1,8 @@
 import streamlit as st
+from dotenv import load_dotenv
+
+# Load environment variables from .env file
+load_dotenv()
 
 st.set_page_config(page_title="StudyGen.AI", page_icon="📚", layout="centered") # layout="wide" for more space
 
@@ -16,6 +20,7 @@ with col1:
     - 📅 **Study Planner:** Organize your study schedule.
     - 🧠 **Flashcards:** Master key concepts with ease.
     - ❓ **Quiz Generator:** Test your knowledge effectively.
+    - 🎮 **Algorithm Games:** Learn through interactive puzzles.
     """)
 
 with col2:
