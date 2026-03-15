@@ -20,6 +20,7 @@ with col1:
     - 📅 **Study Planner:** Organize your study schedule.
     - 🧠 **Flashcards:** Master key concepts with ease.
     - ❓ **Quiz Generator:** Test your knowledge effectively.
+    - 🤖 **Topic Assistant:** Understand concepts with guided explanations.
     - 🎮 **Algorithm Games:** Learn through interactive puzzles.
     """)
 
